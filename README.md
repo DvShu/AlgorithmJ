@@ -1,5 +1,5 @@
 # algorithm
-算法和数据结构，这个工程只有具体的代码实现以及注释。
+算法和数据结构[Java]，这个工程只有具体的代码实现以及注释。
 ## 数据结构(src/data-structure)
 * [linked-list](https://codeburst.io/js-data-structures-linked-list-3ed4d63e6571 "linked-list") 链表：
   1. SinglyLinkedList 单向链表
