@@ -1,8 +1,8 @@
-package deshu.algorithmj.test;
+package algorithmj.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import deshu.algorithm.j.Calculator;
+import algorithm.j.Calculator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
